@@ -22,7 +22,7 @@
 
 ## Docs 📝
 
-- ✨ Atomicals Guidebook - https://docs.atomicals.xyz/
+- ✨ Atomicals Guidebook - https://docs.atomicals.xyz/ x`
 - ✨ Atomicals Guidebook Repository - https://github.com/atomicals-community/atomicals-guide
 
 ## Tools 🔨
@@ -39,7 +39,7 @@
 
 ## Endpoints 🔗
 
-- ✨ Official - https://ep.atomicals.xyz/proxy
+- ✨ Official - https://ep.atomicals.xyz/proxy--> This endpoint is not working. See the following: [https--ep.atomicals.xyz.proxy--yarn.cli.get-ticker.atom--verbose.webm](https://github.com/user-attachments/assets/8e40a904-3503-4426-b63b-50350e2d015f)
 - Wizz Wallet - https://ep.atomicalswallet.com/proxy
 - Next Dao - https://ep.nextdao.xyz/proxy
 - Atomical Market - https://ep.atomicalmarket.com/proxy
@@ -63,3 +63,4 @@
 
 - Discussion with A from the Atomicals Protocol creators of ARC20 and Realm names all built on Bitcoin - https://www.youtube.com/watch?v=qMVP4QhxYXQ
 - Discussion with Arthur From Atomicals Protocol - https://www.youtube.com/watch?v=q-uksyn3a3o
+
